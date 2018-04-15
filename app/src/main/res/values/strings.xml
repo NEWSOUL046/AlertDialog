@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog.zjj</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="signin">sign in</string>
+    <string name="cancel">cancel</string>
+</resources>
